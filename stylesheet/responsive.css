@@ -11,14 +11,17 @@
   .service_first,
   .service_second,
   .service_third {
-    padding: 20px 0;
+    padding: 40px 0;
     width: 60%;
-    height: 480px;
     margin: 0 auto;
   }
 
+  .service_photo img {
+    height: 100%;
+  }
+
   .service_photo {
-    height: 300px;
+    height: auto;
     width: 80%;
     margin: 0 auto;
   }
@@ -27,6 +30,7 @@
     font-size: 18px;
     line-height: 1.4;
     text-align: center;
+    margin-top: 20px;
     margin-bottom: 30px;
   }
   
