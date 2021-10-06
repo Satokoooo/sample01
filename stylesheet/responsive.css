@@ -1,4 +1,4 @@
-@media(max-width:780px) {
+@media screen and (max-width:780px) {
 
   br {
     display: none;
@@ -151,7 +151,7 @@
   }
 }
 
-@media(min-width:780px) {
+@media screen and (min-width:780px) {
   .service_list {
     display: flex;
     background-color: #fff;
