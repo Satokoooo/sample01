@@ -8,7 +8,7 @@ header {
 }
 
 .header_logo {
-  background-image: url(https://satokoooo.github.io/sample01/tools/image/logo.png);
+  background-image: url(tools/image/logo.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
