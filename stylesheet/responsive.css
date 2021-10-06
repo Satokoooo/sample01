@@ -1,4 +1,4 @@
-@media(max-width:800px) {
+@media(max-width:780px) {
 
   br {
     display: none;
@@ -153,7 +153,7 @@
 
 }
 
-@media(min-width:800px) {
+@media(min-width:780px) {
   .service_list {
     display: flex;
     background-color: #fff;
@@ -301,6 +301,5 @@
     justify-content: space-between;
     padding-left: 80px;
     padding-right: 150px;
-  }
-  
+  } 
 }
