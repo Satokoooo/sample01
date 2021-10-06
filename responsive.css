@@ -1,0 +1,293 @@
+@media(max-width:800px) {
+
+  br {
+    display: none;
+  }
+
+  .service_container {
+    padding: 30px 0 ;
+  }
+
+  .service_first,
+  .service_second,
+  .service_third {
+    padding: 20px 0;
+    width: 60%;
+    height: 480px;
+    margin: 0 auto;
+  }
+  
+  .service_list li  h2 {
+    font-size: 18px;
+    line-height: 1.4;
+  }
+  
+  .service_list li p {
+    font-size: 12px;
+    line-height: 1.4;
+  }
+
+  .bouquet {
+    padding: 40px 50px;
+  }  
+
+  .item_frequency {
+    padding: 40px 50px;
+    background-color: #fff;
+  }
+
+  .flower_container {
+    background-color: #f5f5f5;
+  }
+
+  .flower_picture {
+    width: 100%;
+    height: 300px;
+  }
+
+  .flower_title {
+    font-size: 22px;
+    margin-top: 30px;
+    font-weight: 400;
+  }
+
+  .flower_list {
+    margin-top: 40px;
+  }
+
+  .flower_text {
+    font-size: 12px;
+    line-height: 1.4;
+  }
+  
+  .flower_listTitle {
+    font-size: 18px;
+  }
+
+  .vace_title {
+    font-size: 22px;
+    line-height: 1.4;
+  }
+
+  .vace_text p {
+    font-size: 13px;
+    line-height: 1.4;
+  }
+
+  .vace_text {
+    margin-top: 40px;
+  }
+
+  .vace_list li {
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
+
+  .bell,
+  .moon,
+  .candle {
+    height: 160px;
+    width: 150px;
+  }
+
+  .vace_picture {
+    width: 100%;
+    height: 300px;
+  }
+
+  .vace_specialOrder {
+    justify-content: center;
+  }
+  
+  .foot_note {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+    
+  .benefit_title {
+    font-size: 22px;
+    line-height: 1.4;
+  }
+
+  .benefit_container {
+    padding: 50px 30px;
+  }
+
+  .benefit_item {
+    margin-bottom: 40px;
+  }
+
+  .benefit_item h3 {
+    font-size: 18px;
+    line-height: 1.4;
+  }
+
+  .benefit_item p {
+    font-size: 13px;
+    line-height: 1.4;
+  }
+
+  footer {
+    padding: 50px 50px;
+  }
+
+  
+.footer_list li {
+  margin-bottom: 15px;
+}
+
+
+}
+
+@media(min-width:800px) {
+  .service_list {
+    display: flex;
+    background-color: #fff;
+  }
+  
+  .service_first,
+  .service_second,
+  .service_third {
+    padding: 70px 40px;
+    width: 33.333%;
+    height: 630px;
+  }
+  
+  .service_second {
+    background-color: #f5f5f5;
+  }
+
+  .service_list li  h2 {
+    font-size: 24px;
+    line-height: 1.6;
+  }
+  
+  .service_list li p {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  
+
+  .price_container {
+    display: flex;
+  }
+  
+  .bouquet {
+    padding: 60px 50px;
+    width: 50%;
+  }
+
+  .item_frequency {
+    padding: 150px 50px;
+    width: 50%;
+  }
+  
+  .flower_container {
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .flower_picture {
+    width: 50%;
+    height: 750px;
+  }
+
+  .flower_title {
+    font-size: 26px;
+    margin-top: 150px;
+    letter-spacing: 0.1em;
+    font-weight: 520;
+  }
+
+  .flower_list {
+    margin-top: 100px;
+  }
+
+  .flower_listTitle {
+    font-size: 22px;
+    letter-spacing: 0.1em;
+  }
+  
+  .flower_text {
+    font-size: 14px;
+    line-height: 1.6;
+    padding: 20px 0;
+    letter-spacing: 0.1em;
+  }
+  
+  .vace_container {
+    display: flex;
+  }
+  
+  .vace_title {
+    font-size: 26px;
+    line-height: 1.6;
+  }
+
+  .vace_text p {
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  .vace_text {
+    margin-top: 120px;
+  }
+
+  .vace_list {
+    display: flex;
+    justify-content: space-between;
+    width: 380px;
+    margin-top: 30px;
+  }  
+
+  .bell,
+  .moon,
+  .candle {
+    height: 110px;
+    width: 100px;
+  }
+
+  .vace_picture {
+    width: 50%;
+  }
+  
+    
+  .benefit_title {
+    font-size: 26px;
+    line-height: 1.6;
+  }
+
+  .benefit_container {
+    padding: 100px 50px;
+  }
+
+  .benefit_list {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .benefit_item h3 {
+    font-size: 22px;
+    line-height: 1.6;
+  }
+  
+  .benefit_item p {
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  footer {
+    padding-top: 70px;
+    padding-bottom: 120px;
+  }
+  
+  .footer_list {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 150px;
+  }
+  
+}
