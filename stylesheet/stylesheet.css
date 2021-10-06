@@ -1,5 +1,5 @@
 header {
-  background-image: url(../image/museum-2203648_1920.png);
+  background-image: url(https://satokoooo.github.io/sample01/image/museum-2203648_1920.png);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -8,7 +8,7 @@ header {
 }
 
 .header_logo {
-  background-image: url(../image/logo.png);
+  background-image: url(https://satokoooo.github.io/sample01/image/logo.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -56,7 +56,7 @@ header {
 }
 
 .download_apple {
-  background-image: url(../image/Badge_Appstore.png);
+  background-image: url(https://satokoooo.github.io/sample01/image/Badge_Appstore.png);
   background-size: contain;
   background-repeat: no-repeat;
   margin-right: 20px;
@@ -65,7 +65,7 @@ header {
 }
 
 .download_google{
-  background-image: url(../image/Badge_Googleplaystore.png);
+  background-image: url(https://satokoooo.github.io/sample01/image/Badge_Googleplaystore.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 165px;
@@ -114,7 +114,7 @@ header {
 }
 
 .balloon {
-  background-image: url(../image/price_freetrial.png);
+  background-image: url(https://satokoooo.github.io/sample01/image/price_freetrial.png);
   background-size: contain;
   background-repeat: no-repeat;
   height: 48px;
@@ -128,7 +128,7 @@ header {
 }
 
 .bouquet_picture {
-  background-image: url(../image/monet.png);
+  background-image: url(https://satokoooo.github.io/sample01/image/monet.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -161,7 +161,7 @@ header {
 }
 
 .item_frequency_picture {
-  background-image: url(../image/img_frequency.png);
+  background-image: url(https://satokoooo.github.io/sample01/image/img_frequency.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -174,7 +174,7 @@ header {
 }
 
 .flower_picture {
-  background-image: url(../image/people-2590655_1280.jpg);
+  background-image: url(https://satokoooo.github.io/sample01/image/people-2590655_1280.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -256,25 +256,25 @@ header {
 }
 
 .bell {
-  background-image: url(../image/frame4.png);
+  background-image: url(https://satokoooo.github.io/sample01/image/frame4.png);
   background-size: cover;
   background-position: center;
 }
 
 .moon {
-  background-image: url(../image/frame5.png);
+  background-image: url(https://satokoooo.github.io/sample01/image/frame5.png);
   background-size: cover;
   background-position: center;
 }
 
 .candle {
-  background-image: url(../image/frame6.png);
+  background-image: url(https://satokoooo.github.io/sample01/image/frame6.png);
   background-size: cover;
   background-position: center;
 }
 
 .vace_picture {
-  background-image: url(../image/vace.png);
+  background-image: url(https://satokoooo.github.io/sample01/image/vace.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -374,7 +374,7 @@ footer {
 }
 
 .instagram {
-  background-image: url(../image/icon_instagram.png);
+  background-image: url(https://satokoooo.github.io/sample01/image/icon_instagram.png);
   background-size: contain;
   width: 65px;
   height: 65px;
