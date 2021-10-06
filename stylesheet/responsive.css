@@ -146,11 +146,9 @@
   }
 
   
-.footer_list li {
-  margin-bottom: 15px;
-}
-
-
+  .footer_list li {
+    margin-bottom: 15px;
+  }
 }
 
 @media(min-width:780px) {
